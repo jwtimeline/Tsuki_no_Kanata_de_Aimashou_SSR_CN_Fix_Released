@@ -3,7 +3,7 @@
 Unpacked文件夹内为未用EVB打包的文件，覆盖到游戏目录下同样可以运行，与日文版不冲突，速度稍快。
 
 # 2021.9.22
-**Title**： 月の彼方で逢いましょう SweetSummerRainbow / Tsuki no Kanata de Aimashou: Sweet Summer Rainbow / 在月之彼岸邂逅~甜蜜的夏日彩虹~  
+**Title**： 月の彼方で逢いましょう SweetSummerRainbow / Tsuki no Kanata de Aimashou: Sweet Summer Rainbow / 在月之彼岸邂逅～甜蜜的夏日彩虹～  
 **State**： Completed，Released  
 **Note**： 去VMP壳，还原日文标题，去除多余修改  
 **Publisher**： 心愿屋汉化组  
