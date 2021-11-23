@@ -1,0 +1,2 @@
+# Tsuki_no_Kanata_de_Aimashou_SSR_CN_Fix_Released
+ 月の彼方で逢いましょう SweetSummerRainbow 屋子补丁修复
